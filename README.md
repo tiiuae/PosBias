@@ -15,5 +15,5 @@ If you reference this work, please cite:
   title={Positional Bias in Multimodal Embedding Models: Do They Favor the Beginning, the Middle, or the End?},
   author={Kebin Wu and Fatima Albreiki},
   year={2025},
-  journal={arXiv preprint arXiv:TBD}
+  journal={arXiv preprint arXiv:2511.11216}
 }
